@@ -10,3 +10,4 @@ discord.py
 python-dotenv
 requests-oauthlib
 openai
+gunicorn
