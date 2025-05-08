@@ -1,0 +1,12 @@
+discord.py>=2.3.2
+python-dotenv
+openai>=1.0.0
+flask
+requests
+requests_oauthlib
+python-dotenv
+flask
+discord.py
+python-dotenv
+requests-oauthlib
+openai
